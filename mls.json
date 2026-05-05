@@ -791,7 +791,11 @@
         		"ietf-wg-rpp/rpp-requirements",
 				"ietf-wg-rpp/RPP-architecture",
 				"SIDN/ietf-rpp-core",
-				"SIDN/ietf-epp-restful-json"
+				"SIDN/ietf-rpp-json",
+				"SIDN/ietf-rpp-oauth2",
+				"SIDN/ietf-rpp-oauth2-transfer",
+				"SIDN/ietf-rpp-oauth2-delegation",
+				"pawel-kow/draft-kowalik-rpp-data-objects"
             ],
             "topic": "RPP WG Weekly GitHub Activity Summary"
         }
