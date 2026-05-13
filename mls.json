@@ -970,5 +970,13 @@
             ],
             "topic": "DIEM WG GitHub Activity Summary"
         }
+    },
+    "plants@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-plants-wg/merkle-tree-certs"
+            ],
+            "topic": "PLANTS WG GitHub Activity Summary"
+        }
     }
 }
