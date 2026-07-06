@@ -798,7 +798,8 @@
 				"SIDN/ietf-rpp-json",
 				"SIDN/ietf-rpp-oauth2",
 				"SIDN/ietf-rpp-oauth2-transfer",
-				"SIDN/ietf-rpp-oauth2-delegation"
+				"SIDN/ietf-rpp-oauth2-delegation",
+				"SIDN/ietf-rpp-jscontact-profile"
             ],
             "topic": "RPP WG Weekly GitHub Activity Summary"
         }
